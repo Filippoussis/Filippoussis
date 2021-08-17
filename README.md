@@ -1,1 +1,1 @@
-- :ru: Hi, I’m Andrey Filippov 👋
+- Hi, I’m Andrey Filippov 👋
