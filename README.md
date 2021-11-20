@@ -23,3 +23,6 @@
 >Other<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+<br></br>
+![CodeWars](https://www.codewars.com/users/Filippoussis/badges/large)
